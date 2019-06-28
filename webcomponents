@@ -1,0 +1,4 @@
+Javascript Developer's Guide to using Web Components to Customize Web Applications
+From an architectural point of view, a Component is a reusable part of a codebase that contains both UI and code. This concept is at the base of a lot of modern front-end frameworks like React or Angular.
+This blog post covers the APIs that compose the Web Components suite and a guide on how developers can easily build components to customize their web pages and web applications.
+https://buttercms.com/blog/using-web-components-with-buttercms
